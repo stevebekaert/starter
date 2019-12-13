@@ -1,0 +1,29 @@
+/* On stylise ici en renommant avec le bon nom de fichier.
+Un fichier css pour un fichier css */
+
+.getAll {
+  border-radius: 5px;
+  border : 1px white solid;
+  background-color: white;
+  color: black;
+  height: 40px;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.getAll:hover{
+  opacity: 0.9;
+}
+
+.rowSelected:hover{
+  background-color: #c9eaf4;
+}
+
+.title-contact{
+  color: white;
+  margin-bottom: 30px;
+}
+
+.head-row{
+  /* background-color: #a0d0ee; */
+}

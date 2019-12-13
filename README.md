@@ -5,8 +5,7 @@
 - GET, POST, PUT, DELETE : A walkthrough with JavaScript’s Fetch API
 
 ### Step 1
- Clone the repo
- Check if node-module is corecctly installed
+ Clone the repo  and check if node-module is corecctly installed
  
 ### Step 2 
   Create the DB. 

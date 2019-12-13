@@ -1,8 +1,13 @@
-## Starter project RESTFUL API with : Express - Node.js - React - MySQL 
+# Starter project RESTFUL API with : Express - Node.js - React - MySQL 
 
-# Rescept the architecture
+## Rescept the architecture
 - Models/Controllers/Routes
 - GET, POST, PUT, DELETE : A walkthrough with JavaScript’s Fetch API
+
+## Tools 
+ - Material UI
+ - Bootstrap
+ - file gitignore
 
 ### Step 1
  Clone the repo  and check if node-module is correctly installed

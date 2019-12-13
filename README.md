@@ -10,7 +10,7 @@
 ### Step 2 
   Create the DB. 
    1) ```mysql -u root -p```
-   2) compile the file 'starter/back-app/stores/clients.sql' to create DB and table 'clients'
+   2) compile the file 'starter/back-app/stores/clients.sql' to create DB (name it as you want) and create the table 'clients'
  
 ### Step 3
   Create file 'db.config.js' in folder 'starter/back-app'
@@ -19,7 +19,7 @@
       HOST :  'localhost', 
       USER :  'root', 
       PASSWORD :  YOUR PASSWORD,
-      DB :  'game'
+      DB :  YOUR DB
     }
 ```
 
